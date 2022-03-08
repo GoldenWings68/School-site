@@ -3,3 +3,26 @@
     height: 500px;
     border: none;
 }
+
+#Mynavbar{
+position: sticky;
+    
+}
+
+.school-mainDIV{
+
+  border: 1px solid lightgray;
+
+}
+
+.school-mainDIV img{
+width: 100%;
+  
+  }
+
+  .school-mainDIV h5 , .school-mainDIV p{
+
+   margin: 20px;
+  
+  }
+
